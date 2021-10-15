@@ -1,5 +1,5 @@
 ### Hi My Name is Lee Si Hyeong
- my email : 7504shlee@naver.com
+ <!--my email : 7504shlee@naver.com-->
 
 <!--
 **sinyusuk/sinyusuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
